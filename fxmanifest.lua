@@ -1,5 +1,4 @@
 fx_version 'cerulean'
 game 'gta5'
-author 'SPKReality#7727'
-description 'Custom British Props'
+description 'a script used to disable combat rolling'
 version '1.0.0'
