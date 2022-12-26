@@ -1,0 +1,5 @@
+fx_version 'cerulean'
+game 'gta5'
+author 'SPKReality#7727'
+description 'Custom British Props'
+version '1.0.0'
